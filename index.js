@@ -1,4 +1,4 @@
-fetch("http://api.icndb.com/jokes/random")
+fetch("https://api.icndb.com/jokes/random")
 .then(response =>{
     return response.json()
 })
