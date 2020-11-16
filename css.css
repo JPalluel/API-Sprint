@@ -1,0 +1,73 @@
+body {
+    background-image: url("https://joyenergizer.com/wp-content/uploads/2015/02/chuck-norris-facts-.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+
+h1{
+    text-align: center;
+    color: #ed6f09;
+    font-size: 50px;
+    font-family: 'Stalinist One', cursive;
+}
+
+h3{
+    color:#ed6f09;
+    margin:40px;
+    font-weight: 700;
+    font-size: 30px;
+    font-family: 'Patrick Hand', cursive;
+}
+
+#approuved{
+    width: 190px;
+    height: 190px;
+    background-image : url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS2XRXJ9QhnzVIHjtZG0znAEcPReK6ktCSUNg&usqp=CAU");
+    background-repeat: no-repeat;
+    margin-left: 150px;
+    margin-top: 60px;
+    border: 10px solid black;
+    background-position: center;
+    border-radius: 50%;
+}
+
+#punchlines {
+    margin-top : 150px;
+}
+
+#title {
+    background-image : url("https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR4LMD4xSeTYNKxz8K0JyjyEtT9fk-sJPaVew&usqp=CAU");
+    width: 400px;
+    height: 100px;
+    background-position: center;
+    margin: auto;
+    border: 1px solid black;
+    border-radius: 8px;
+    font-family: 'Patrick Hand', cursive;
+}
+
+#jokes{
+    text-align:center;
+    margin-top: 70px;
+    color:white;
+    font-weight: 700;
+    font-size: 40px;
+    font-family: 'Patrick Hand', cursive;
+}
+
+#btn{
+    margin: auto;
+    margin-top: 50px;
+    background-color: #272727;
+    color: #FFFFFF;
+    border-radius: 10px;
+    font-weight: 700;
+    font-size: 20px;
+    height: 40px;
+    width: 150px;
+    padding: 5px;
+    display: flex;
+    justify-content:center;
+    border: none;
+    font-family: 'Patrick Hand', cursive;
+}
